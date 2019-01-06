@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/dashboard/main",
+    "pages/button/main",
+    "pages/cell/main",
+    "pages/layout/main",
+    "pages/popup/main",
+    "pages/transition/main",
+    "pages/checkbox/main",
+    "pages/datetime-picker/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "usingComponents":{
+      "van-datetime-picker": "/static/vant/datetime-picker/index",
+      "demo-block": "/static/vant/demo-block/index"
+    }
+  }
